@@ -1,5 +1,5 @@
 
-## Tutoq
+## Tuto
 https://www.section.io/engineering-education/build-a-twitch-chatbot-in-nodejs/
 
 https://www.twilio.com/blog/creating-twitch-chat-bots-with-node-js
